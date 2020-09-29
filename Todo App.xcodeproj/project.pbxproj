@@ -16,6 +16,7 @@
 		846B2D3923DDC959008C3F70 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 846B2D3723DDC959008C3F70 /* LaunchScreen.storyboard */; };
 		846B2D4423DDC959008C3F70 /* Todo_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846B2D4323DDC959008C3F70 /* Todo_AppTests.swift */; };
 		846B2D4F23DDC959008C3F70 /* Todo_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846B2D4E23DDC959008C3F70 /* Todo_AppUITests.swift */; };
+		846B2D5D23DDE64E008C3F70 /* MyDataRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846B2D5C23DDE64E008C3F70 /* MyDataRepository.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		846B2D4A23DDC959008C3F70 /* Todo AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Todo AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		846B2D4E23DDC959008C3F70 /* Todo_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Todo_AppUITests.swift; sourceTree = "<group>"; };
 		846B2D5023DDC959008C3F70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		846B2D5C23DDE64E008C3F70 /* MyDataRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyDataRepository.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				846B2D2E23DDC958008C3F70 /* FirstViewController.swift */,
 				846B2D3023DDC958008C3F70 /* SecondViewController.swift */,
 				846B2D3223DDC958008C3F70 /* Main.storyboard */,
+				846B2D5C23DDE64E008C3F70 /* MyDataRepository.swift */,
 				846B2D3523DDC959008C3F70 /* Assets.xcassets */,
 				846B2D3723DDC959008C3F70 /* LaunchScreen.storyboard */,
 				846B2D3A23DDC959008C3F70 /* Info.plist */,
@@ -266,6 +269,7 @@
 				846B2D2F23DDC958008C3F70 /* FirstViewController.swift in Sources */,
 				846B2D2B23DDC958008C3F70 /* AppDelegate.swift in Sources */,
 				846B2D2D23DDC958008C3F70 /* SceneDelegate.swift in Sources */,
+				846B2D5D23DDE64E008C3F70 /* MyDataRepository.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
